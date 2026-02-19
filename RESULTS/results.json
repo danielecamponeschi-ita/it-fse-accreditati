@@ -7205,7 +7205,8 @@
         {
             "vendor": "SCS SRL",
             "equiv_names": [
-                "Artexe SPA"
+                "Artexe SPA",
+                "MAPS HEALTHCARE S.p.A."
             ],
             "application_id": "ALCHYMIA",
             "version": "1.0.8",
@@ -7222,6 +7223,7 @@
             "vendor": "SCS SRL",
             "equiv_names": [
                 "Artexe SPA"
+                "MAPS HEALTHCARE S.p.A."
             ],
             "application_id": "AUSYLIA",
             "version": "1.0.8",
